@@ -31,7 +31,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab (USSLAB)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CamPro: Camera-based Anti-Facial Recognition]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/pdf/2401.00151))
+[CamPro: Camera-based Anti-Facial Recognition](https://arxiv.org/pdf/2401.00151)
 
 Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
@@ -46,7 +46,7 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
 # 📖 Educations
 - *2019.08 - 2023.06 (now)*, B.S. in Computer Science, Harbin Engineering University
-- *2023.08 - now *, Ph.D., Zhejiang University, Hangzhou.
+- *2023.08 - now*, Ph.D., Zhejiang University
 - 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
