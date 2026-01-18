@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab (USSLAB) at Zhejiang University, advised by Prof. Yushi Cheng, Prof. Xiaoyu Ji, and Prof. Wenyuan Xu. My research interests lie in Trustworthy AI, with a specific focus on the intersection of Generative AI Security and Content Safety. 
+Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab (USSLAB) at Zhejiang University, advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng with honor also from Harbin Engineering University,advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . My research interests lie in Trustworthy AI, with a specific focus on the intersection of Generative AI Security and Content Safety. 
 <!-- I have published 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> .-->
 
 
@@ -66,12 +66,13 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
 
 # 🎖 Honors and Awards
+- Outstanding Graduate of Heilongjiang Province, 2023
 - National Scholarship, 2021
 
 
 # 📖 Educations
-- *2019.08 - 2023.06*, B.S. in Computer Science, Harbin Engineering University
-- *2023.08 - now*, Ph.D., Zhejiang University
+- *2019.08 - 2023.06*, B.Eng in Computer Science, Harbin Engineering University
+- *2023.08 - now*, Ph.D. in Control Science and Engineering, Zhejiang University
 
 
 <!-- # 💬 Invited Talks -->
