@@ -46,7 +46,7 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PINA: Prompt Injection Attack against Navigation Agents](https://arxiv.org/pdf/2401.00151)
+[PINA: Prompt Injection Attack against Navigation Agents](https://arxiv.org/abs/2601.13612)
 
 **Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu
 
