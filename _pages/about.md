@@ -83,7 +83,7 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Services
-- Reviewer of IEEE International Conference on Acoustics, Speech, and Signal Processing
+- Reviewer of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Teaching Assistant of ECE471(Data Science Analytics using Probabilistic Graph Models), ZJU-UIUC Institute at Zhejiang University, 2024.9 - 2025.1.
 - Teaching Assistant of Reliability Engineering and Maintenance Management, ZJU-UIUC Institute at Zhejiang University, 2024.11 - 2025.1.
 
