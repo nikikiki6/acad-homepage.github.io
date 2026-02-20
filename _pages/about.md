@@ -44,8 +44,9 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 </div>
 </div>
 
+<!--
 - Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
-
+.-->
 
 - IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants. Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
 , *ICASSP 2026*.
@@ -64,8 +65,10 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 </div>
 </div>
 
-- Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *Pattern Recognition (PR).* (under review)
-
+<!--
+- Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+.-->
+  
 ## Content Safety
 
 In preparation.
